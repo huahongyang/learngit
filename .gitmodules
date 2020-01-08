@@ -1,0 +1,3 @@
+[submodule "learnsubmodule"]
+	path = learnsubmodule
+	url = git@github.com:huahongyang/learnsubmodule.git
